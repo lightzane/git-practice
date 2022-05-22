@@ -13,7 +13,7 @@ This repository is used as a playground to practice `GIT` commands.
 
 1. Download this Github repository
 2. Reimagine `_recipe.git` as the local remote repository
-3. Extract `practice-package.zip` (See content explained [here](#practice-package-content))
+3. Extract `practice-package-v1.zip` (See content explained [here](#practice-package-content))
 
 > **NOTE**: You are going to `push` and `pull` only on that local remote repository and not on this **Github** repository
 
